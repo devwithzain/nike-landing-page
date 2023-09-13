@@ -1,4 +1,4 @@
-Nike Landing Page build with Next JS 13 and Tailwind CSS.
+<h1>Nike Landing Page build with Next JS 13 and Tailwind CSS.</h1>
 
 <hr/> 
 
